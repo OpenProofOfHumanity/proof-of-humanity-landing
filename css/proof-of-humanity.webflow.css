@@ -2630,7 +2630,7 @@ figcaption {
   }
 
   .logo-app {
-    width: 100px;
+    width: auto;
     height: 100px;
   }
 
